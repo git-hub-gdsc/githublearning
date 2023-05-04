@@ -1,4 +1,5 @@
 def subt(x,y):
-    return x,y
+    diff = x -y
+    return diff
 
 subt(1,2)
